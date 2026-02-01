@@ -1,0 +1,33 @@
+N	51.9018	-8.4582	B229	01 Feb 2026	B229\nCork to Thurles\nExpected Departure 20:10	To Thurles
+N	52.6766	-7.82189	B226	01 Feb 2026	B226\nThurles to Cork\nExpected Departure 20:20	To Cork
+N	53.1442	-6.06085	E764	01 Feb 2026	E764\nGreystones to Dublin Connolly\nExpected Departure 20:22	Northbound
+N	53.1855	-6.80807	B726	01 Feb 2026	B726\nNewbridge to Athlone\nExpected Departure 20:15	To Athlone
+N	53.3531	-6.24591	D923	01 Feb 2026	D923\nDublin Connolly to Maynooth\nExpected Departure 20:17	Northbound
+N	53.378	-6.58993	P764	01 Feb 2026	P764\nMaynooth to Dublin Connolly\nExpected Departure 20:25	Southbound
+N	53.4349	-6.46898	P381	01 Feb 2026	P381\nM3 Parkway to Clonsilla\nExpected Departure 20:25	Southbound
+R	0	0	D206	01 Feb 2026	D206\n20:20 - Dublin Heuston to Portlaoise (-9 mins late)\nArrived Inchicore Advance Starter next stop Park West and Cherry Orchard	To Portlaoise
+R	52.6587	-8.62397	A796	01 Feb 2026	A796\n18:15 - Limerick to Galway (0 mins late)\nDeparted Limerick next stop Sixmilebridge	To Galway
+R	52.6766	-7.82189	A226	01 Feb 2026	A226\n19:05 - Dublin Heuston to Charleville (0 mins late)\nArrived Thurles next stop Limerick Junction	To Charleville
+R	52.992	-6.9762	A508	01 Feb 2026	A508\n18:50 - Dublin Heuston to Waterford (-1 mins late)\nDeparted Athy next stop Carlow	To Waterford
+R	53.0371	-7.30086	A227	01 Feb 2026	A227\n19:03 - Charleville to Dublin Heuston (-1 mins late)\nDeparted Portlaoise next stop Dublin Heuston	To Dublin Heuston
+R	53.1442	-6.06085	A610	01 Feb 2026	A610\n18:45 - Dublin Connolly to Rosslare Europort (2 mins late)\nDeparted Greystones next stop Kilcoole	Southbound
+R	53.1442	-6.06085	A611	01 Feb 2026	A611\n18:00 - Rosslare Europort to Dublin Connolly (1 mins late)\nDeparted Greystones next stop Bray	Northbound
+R	53.146	-7.18055	A408	01 Feb 2026	A408\n19:25 - Dublin Heuston to Limerick (1 mins late)\nDeparted Portarlington next stop Portlaoise	To Limerick
+R	53.163	-6.90802	A509	01 Feb 2026	A509\n18:25 - Waterford to Dublin Heuston (-1 mins late)\nArrived Kildare next stop Newbridge	To Dublin Heuston
+R	53.1855	-6.80807	A411	01 Feb 2026	A411\n18:20 - Limerick to Dublin Heuston (0 mins late)\nDeparted Newbridge next stop Dublin Heuston	To Dublin Heuston
+R	53.22	-6.1101	E267	01 Feb 2026	E267\n19:32 - Dublin Connolly to Bray (0 mins late)\nArrived Woodbrook next stop Bray	Southbound
+R	53.22	-6.1101	E763	01 Feb 2026	E763\n20:11 - Bray to Dublin Connolly (1 mins late)\nDeparted Woodbrook next stop Shankill	Northbound
+R	53.2736	-9.04696	A497	01 Feb 2026	A497\n18:30 - Galway to Limerick (0 mins late)\nDeparted Galway next stop Oranmore	To Limerick
+R	53.2736	-9.04696	A715	01 Feb 2026	A715\n19:25 - Galway to Athlone (0 mins late)\nDeparted Galway next stop Oranmore	To Athlone
+R	53.2954	-6.15206	E161	01 Feb 2026	E161\n19:52 - Dublin Connolly to Greystones (0 mins late)\nDeparted Salthill and Monkstown next stop Dun Laoghaire	Southbound
+R	53.2991	-6.16512	E762	01 Feb 2026	E762\n19:51 - Bray to Dublin Connolly (0 mins late)\nArrived Seapoint next stop Blackrock	Northbound
+R	53.3397	-6.23773	E268	01 Feb 2026	E268\n20:09 - Dublin Connolly to Bray (0 mins late)\nArrived Grand Canal Dock next stop Lansdowne Road	Southbound
+R	53.378	-6.58993	A914	01 Feb 2026	A914\n19:32 - Dublin Connolly to Sligo (0 mins late)\nDeparted Maynooth next stop Kilcock	Northbound
+R	53.3816	-6.37149	P763	01 Feb 2026	P763\n19:55 - Maynooth to Dublin Connolly (0 mins late)\nArrived Castleknock next stop Navan Road Parkway	Southbound
+R	53.8591	-7.9164	A915	01 Feb 2026	A915\n19:05 - Sligo to Dublin Connolly (3 mins late)\nDeparted Dromod next stop Longford	Southbound
+R	54.0007	-6.41291	A162	01 Feb 2026	A162\n19:29 - Drogheda to Belfast (1 mins late)\nDeparted Dundalk next stop Newry	Northbound
+R	54.0887	-8.52088	A912	01 Feb 2026	A912\n17:05 - Dublin Connolly to Sligo (1 mins late)\nDeparted Ballymote next stop Collooney	Northbound
+T	52.5009	-8.20003	A439	01 Feb 2026	A439\n19:00 - Ennis to Limerick Junction(-2 mins late)\nTERMINATED Limerick Junction at 20:15	To Limerick Junction
+T	53.0371	-7.30086	D205	01 Feb 2026	D205\n18:57 - Dublin Heuston to Portlaoise(-2 mins late)\nTERMINATED Portlaoise at 20:07	To Portlaoise
+T	53.334	-6.37868	A225	01 Feb 2026	A225\n18:10 - Charleville to Dublin Heuston(0 mins late)\nTERMINATED Park West and Cherry Orchard at 20:06	To Dublin Heuston
+T	53.3531	-6.24591	E761	01 Feb 2026	E761\n19:18 - Greystones to Dublin Connolly(-4 mins late)\nTERMINATED Dublin Connolly at 20:14	Northbound
