@@ -1,0 +1,224 @@
+{
+  "fish": [
+    {
+      "id": 1,
+      "commonName": "Atlantic Bluefin Tuna",
+      "scientificName": "Thunnus thynnus",
+      "habitat": "Saltwater",
+      "typicalRegion": "Atlantic Ocean",
+      "averageLengthCm": 250,
+      "diet": "Fish, squid",
+      "conservationStatus": "Endangered",
+      "recordCatchWeightKg": 679
+    },
+    {
+      "id": 2,
+      "commonName": "Great White Shark",
+      "scientificName": "Carcharodon carcharias",
+      "habitat": "Saltwater",
+      "typicalRegion": "Global oceans",
+      "averageLengthCm": 450,
+      "diet": "Seals, fish",
+      "conservationStatus": "Vulnerable",
+      "recordCatchWeightKg": 1208
+    },
+    {
+      "id": 3,
+      "commonName": "Blue Marlin",
+      "scientificName": "Makaira nigricans",
+      "habitat": "Saltwater",
+      "typicalRegion": "Atlantic & Pacific",
+      "averageLengthCm": 350,
+      "diet": "Fish, squid",
+      "conservationStatus": "Vulnerable",
+      "recordCatchWeightKg": 636
+    },
+    {
+      "id": 4,
+      "commonName": "Black Marlin",
+      "scientificName": "Istiompax indica",
+      "habitat": "Saltwater",
+      "typicalRegion": "Indo-Pacific",
+      "averageLengthCm": 400,
+      "diet": "Fish, crustaceans",
+      "conservationStatus": "Near Threatened",
+      "recordCatchWeightKg": 707
+    },
+    {
+      "id": 5,
+      "commonName": "Swordfish",
+      "scientificName": "Xiphias gladius",
+      "habitat": "Saltwater",
+      "typicalRegion": "Worldwide oceans",
+      "averageLengthCm": 300,
+      "diet": "Fish, squid",
+      "conservationStatus": "Least Concern",
+      "recordCatchWeightKg": 536
+    },
+    {
+      "id": 6,
+      "commonName": "Pacific Halibut",
+      "scientificName": "Hippoglossus stenolepis",
+      "habitat": "Saltwater",
+      "typicalRegion": "North Pacific",
+      "averageLengthCm": 200,
+      "diet": "Fish, crustaceans",
+      "conservationStatus": "Least Concern",
+      "recordCatchWeightKg": 208
+    },
+    {
+      "id": 7,
+      "commonName": "Atlantic Cod",
+      "scientificName": "Gadus morhua",
+      "habitat": "Saltwater",
+      "typicalRegion": "North Atlantic",
+      "averageLengthCm": 100,
+      "diet": "Fish, invertebrates",
+      "conservationStatus": "Vulnerable",
+      "recordCatchWeightKg": 47
+    },
+    {
+      "id": 8,
+      "commonName": "Northern Pike",
+      "scientificName": "Esox lucius",
+      "habitat": "Freshwater",
+      "typicalRegion": "Europe, North America",
+      "averageLengthCm": 90,
+      "diet": "Fish, frogs",
+      "conservationStatus": "Least Concern",
+      "recordCatchWeightKg": 25
+    },
+    {
+      "id": 9,
+      "commonName": "Largemouth Bass",
+      "scientificName": "Micropterus salmoides",
+      "habitat": "Freshwater",
+      "typicalRegion": "North America",
+      "averageLengthCm": 55,
+      "diet": "Fish, insects",
+      "conservationStatus": "Least Concern",
+      "recordCatchWeightKg": 10.1
+    },
+    {
+      "id": 10,
+      "commonName": "Smallmouth Bass",
+      "scientificName": "Micropterus dolomieu",
+      "habitat": "Freshwater",
+      "typicalRegion": "North America",
+      "averageLengthCm": 50,
+      "diet": "Crayfish, fish",
+      "conservationStatus": "Least Concern",
+      "recordCatchWeightKg": 5.4
+    },
+    {
+      "id": 11,
+      "commonName": "Rainbow Trout",
+      "scientificName": "Oncorhynchus mykiss",
+      "habitat": "Freshwater",
+      "typicalRegion": "North America",
+      "averageLengthCm": 70,
+      "diet": "Insects, fish",
+      "conservationStatus": "Least Concern",
+      "recordCatchWeightKg": 21.8
+    },
+    {
+      "id": 12,
+      "commonName": "Brown Trout",
+      "scientificName": "Salmo trutta",
+      "habitat": "Freshwater",
+      "typicalRegion": "Europe",
+      "averageLengthCm": 65,
+      "diet": "Insects, fish",
+      "conservationStatus": "Least Concern",
+      "recordCatchWeightKg": 19.1
+    },
+    {
+      "id": 13,
+      "commonName": "Muskellunge",
+      "scientificName": "Esox masquinongy",
+      "habitat": "Freshwater",
+      "typicalRegion": "North America",
+      "averageLengthCm": 120,
+      "diet": "Fish",
+      "conservationStatus": "Least Concern",
+      "recordCatchWeightKg": 30.6
+    },
+    {
+      "id": 14,
+      "commonName": "Wels Catfish",
+      "scientificName": "Silurus glanis",
+      "habitat": "Freshwater",
+      "typicalRegion": "Europe",
+      "averageLengthCm": 200,
+      "diet": "Fish, birds",
+      "conservationStatus": "Least Concern",
+      "recordCatchWeightKg": 144
+    },
+    {
+      "id": 15,
+      "commonName": "Goliath Tigerfish",
+      "scientificName": "Hydrocynus goliath",
+      "habitat": "Freshwater",
+      "typicalRegion": "Congo River Basin",
+      "averageLengthCm": 150,
+      "diet": "Fish",
+      "conservationStatus": "Near Threatened",
+      "recordCatchWeightKg": 70
+    },
+    {
+      "id": 16,
+      "commonName": "Arapaima",
+      "scientificName": "Arapaima gigas",
+      "habitat": "Freshwater",
+      "typicalRegion": "Amazon Basin",
+      "averageLengthCm": 250,
+      "diet": "Fish",
+      "conservationStatus": "Data Deficient",
+      "recordCatchWeightKg": 200
+    },
+    {
+      "id": 17,
+      "commonName": "Barramundi",
+      "scientificName": "Lates calcarifer",
+      "habitat": "Brackish",
+      "typicalRegion": "Australia, Southeast Asia",
+      "averageLengthCm": 90,
+      "diet": "Fish, crustaceans",
+      "conservationStatus": "Least Concern",
+      "recordCatchWeightKg": 44
+    },
+    {
+      "id": 18,
+      "commonName": "King Salmon",
+      "scientificName": "Oncorhynchus tshawytscha",
+      "habitat": "Saltwater/Freshwater",
+      "typicalRegion": "Pacific Ocean",
+      "averageLengthCm": 100,
+      "diet": "Fish, squid",
+      "conservationStatus": "Least Concern",
+      "recordCatchWeightKg": 44.1
+    },
+    {
+      "id": 19,
+      "commonName": "Tarpon",
+      "scientificName": "Megalops atlanticus",
+      "habitat": "Saltwater",
+      "typicalRegion": "Atlantic Ocean",
+      "averageLengthCm": 200,
+      "diet": "Fish, crustaceans",
+      "conservationStatus": "Vulnerable",
+      "recordCatchWeightKg": 128
+    },
+    {
+      "id": 20,
+      "commonName": "Yellowfin Tuna",
+      "scientificName": "Thunnus albacares",
+      "habitat": "Saltwater",
+      "typicalRegion": "Tropical oceans",
+      "averageLengthCm": 180,
+      "diet": "Fish, squid",
+      "conservationStatus": "Near Threatened",
+      "recordCatchWeightKg": 193
+    }
+  ]
+}
