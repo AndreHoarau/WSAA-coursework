@@ -1,7 +1,7 @@
 # Using an api that simulates a deck of cards shuffle and deal 5 cards
 # Author: Andre Hoarau
 # Import requests to interact with the API import counter to count the doubles and triples 
-#Counter documentation = https://docs.python.org/3/library/collections.html#collections.Counter
+# Counter documentation = https://docs.python.org/3/library/collections.html#collections.Counter
 import requests
 from collections import Counter
 # Url for shuffling
